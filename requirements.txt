@@ -5,4 +5,4 @@ tensorflow==2.13.0rc1
 matplotlib==3.7.1
 keras==2.13.1rc0
 pydub==0.25.1
-ffmpeg
+ffprobe
