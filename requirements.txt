@@ -1,6 +1,6 @@
-streamlit
-librosa
-numpy
-tensorflow
-matplotlib
-keras
+streamlit==1.23.1
+librosa==0.10.0.post2
+numpy==1.24.3
+tensorflow==2.13.0rc1
+matplotlib==3.7.1
+keras==2.13.1rc0
