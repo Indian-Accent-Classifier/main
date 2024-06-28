@@ -1,6 +1,6 @@
 # Accent Classifier for Indian Languages
 
-Welcome to the Accent Classifier for Indian Languages! This application allows you to upload an audio file and predict the accent of the speaker among several Indian languages. The supported accents include Hindi, Kannada, Malayali, Telugu, and Tamil, each with both native and English-speaking variants.
+Welcome to the Accent Classifier for Indian Languages! This application allows you to upload an audio file and predict the accent of the speaker among several Indian languages. The supported accents include Hindi, Kannada, Malayali, Telugu, and Tamil, each with both native and English-speaking variants. This project also has another variant which has explanations via LIME tool for the predictions. Reach out to us if you are interested in it!
 
 ## Features
 1. Upload audio files in various formats (WAV, MP3, OGG).
